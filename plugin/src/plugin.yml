@@ -1,0 +1,11 @@
+main: fr.alkanife.survivalplugin.SurvivalPlugin
+name: survival-essentials
+version: 1.0
+api-version: 1.16
+author: alkanife
+load: STARTUP
+commands:
+  afk:
+    description: toggle afk
+  skipnights:
+    description: toggle skipnights
